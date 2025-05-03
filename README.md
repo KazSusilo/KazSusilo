@@ -4,7 +4,7 @@ I'm currently working on
 * [BlackjackWingman](https://github.com/KazSusilo/BlackjackWingman)
   * An educational application to teach the necessary skills on how to beat popular casino game Blackjack
 * [NotionWorkouts](https://github.com/KazSusilo/Notion)
-  * Microservice where creating a workout utilizing the power of notion databases 
+  * Microservice that auto-fills details in Notion to create a comprehensive Health & Fitness Tracker
 
 I'm currently learning
 * [AWS Lamda](https://aws.amazon.com/pm/lambda/)
@@ -44,3 +44,12 @@ I'm currently learning
 ![Notion Badge](https://img.shields.io/badge/notion-CCCCCC?style=for-the-badge&logo=notion&logoColor=FFFFFF&labelColor=20232a)
 
 ## GitHub Stats
+<a name="GitHubStats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KazSusilo&theme=transparent" />
+</a>
+<a name="LanguageStats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KazSusilo&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a name="GitHubStreakStats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=kazsusilo&theme=transparent&exclude_days=Sun%2CSat" />
+</a>
