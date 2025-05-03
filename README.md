@@ -1,10 +1,39 @@
 # Hey there! It's Kaz <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
 I'm currently working on
-* BlackjackWingman
+* [BlackjackWingman](https://github.com/KazSusilo/BlackjackWingman)
   * An educational application to teach the necessary skills on how to beat popular casino game Blackjack
-* NotionWorkouts
+* [NotionWorkouts](https://github.com/KazSusilo/Notion)
   * Microservice where creating a workout utilizing the power of notion databases 
 
 I'm currently learning
-* AWS Lamda
+* [AWS Lamda](https://aws.amazon.com/pm/lambda/)
+* [Notion API](https://developers.notion.com/)
+
+## Technologies & Tools
+![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=20232a)
+[C#]
+![C Badge](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=20232a)
+![C++ Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=20232a)
+[Java]
+![Bash Badge](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=20232a)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=20232a)
+![HTML5 Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=20232a)
+![CSS3 Badge](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=20232a)
+
+
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232a)
+![Node Badge](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=20232a)
+![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=20232a)
+![Notion Badge](https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=FFFFFF&labelColor=20232a)
+
+![SQLite Badge](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=20232a)
+![Selenium Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=20232a)
+![TensorFlow Badge](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=20232a)
+![PyTorch Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=20232a)
+![Flask Badge](https://img.shields.io/badge/flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=20232a)
+![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=20232a)
+
+![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=20232a)
+
+## GitHub Stats
