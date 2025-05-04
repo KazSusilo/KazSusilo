@@ -1,12 +1,12 @@
 # Hey there! It's Kaz <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
 
-I'm currently working on
+🔭 I'm currently working on
 * [BlackjackWingman](https://github.com/KazSusilo/BlackjackWingman)
   * An educational application to teach the necessary skills on how to beat popular casino game Blackjack
 * [NotionWorkouts](https://github.com/KazSusilo/Notion)
   * Microservice that auto-fills details in Notion to create a comprehensive Health & Fitness Tracker
 
-I'm currently learning
+🌱 I'm currently learning
 * [AWS Lamda](https://aws.amazon.com/pm/lambda/)
 * [Notion API](https://developers.notion.com/)
 
