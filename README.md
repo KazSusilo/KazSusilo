@@ -45,5 +45,6 @@
 
 ## GitHub Stats
 <a name="GitHubStreakStats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=kazsusilo&theme=transparent&exclude_days=Sun%2CSat" />
+  <img height=200 align="center" src="https://github-readme-streak-stats-nu-two.vercel.app?user=KazSusilo&theme=transparent&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat&fire=8058AC&ring=8058AC&sideNums=8058AC&currStreakNum=A083C9&currStreakLabel=A083C9&sideLabels=968AEC&dates=B3AAEB&excludeDaysLabel=B3AAEB&border=A79CEA&stroke=A79CEA" />
 </a>
+
