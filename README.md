@@ -9,7 +9,6 @@
 🌱 I'm currently learning
 * [AWS Lamda](https://aws.amazon.com/pm/lambda/)
 * [Notion API](https://developers.notion.com/)
-* []
 
 ## Technologies
 ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=20232a)
