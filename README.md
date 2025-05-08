@@ -9,6 +9,7 @@
 🌱 I'm currently learning
 * [AWS Lamda](https://aws.amazon.com/pm/lambda/)
 * [Notion API](https://developers.notion.com/)
+* []
 
 ## Technologies
 ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=20232a)
@@ -44,12 +45,6 @@
 ![Notion Badge](https://img.shields.io/badge/notion-CCCCCC?style=for-the-badge&logo=notion&logoColor=FFFFFF&labelColor=20232a)
 
 ## GitHub Stats
-<a name="GitHubStats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KazSusilo&theme=transparent" />
-</a>
-<a name="LanguageStats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KazSusilo&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</a>
 <a name="GitHubStreakStats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=kazsusilo&theme=transparent&exclude_days=Sun%2CSat" />
 </a>
