@@ -1,9 +1,10 @@
-# Hey there! It's Kaz <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+# Kaz Susilo 
+𝑪𝒉𝒂𝒏𝒈𝒊𝒏𝒈 𝒕𝒉𝒆 𝒘𝒐𝒓𝒍𝒅 𝒐𝒏𝒆 𝒍𝒊𝒏𝒆 𝒂𝒕 𝒂 𝒕𝒊𝒎𝒆
 
 🔭 I'm currently working on
 * [BlackjackWingman](https://github.com/KazSusilo/BlackjackWingman)
   * An educational application to teach the necessary skills on how to beat popular casino game Blackjack
-* [NotionWorkouts](https://github.com/KazSusilo/Notion)
+* [NotionBuddy](https://github.com/KazSusilo/NotionBuddy)
   * Microservice that auto-fills details in Notion to create a comprehensive Health & Fitness Tracker
 
 🌱 I'm currently learning
@@ -19,8 +20,8 @@
 ![Bash Badge](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=20232a)
 <br>
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=20232a)
-![HTML5 Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=20232a)
-![CSS3 Badge](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=20232a)
+![HTML Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=20232a)
+![CSS Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=20232a)
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232a)
 ![Node Badge](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=20232a)
