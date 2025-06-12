@@ -5,7 +5,11 @@
 * [BlackjackWingman](https://github.com/KazSusilo/BlackjackWingman)
   * An educational application to teach the necessary skills on how to beat casino game Blackjack
 * [NotionBuddy](https://github.com/KazSusilo/NotionBuddy)
-  * Microservice that auto-fills details in Notion to create a comprehensive Health & Fitness Tracker
+  * A microservice that auto-fills details in Notion to create a comprehensive Health & Fitness Tracker
+* Split
+  * A financial application to that helps groups track and manage shared expenses, making it easier to split costs and settle balances
+* Trader
+  * A trading microservice that automatically performs trades based on your trading strategy, allowing money to be made while you sleep
 
 🌱 I'm currently learning
 * [AWS Lamda](https://aws.amazon.com/pm/lambda/)
