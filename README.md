@@ -3,7 +3,7 @@
 
 🔭 I'm currently working on
 * [BlackjackWingman](https://github.com/KazSusilo/BlackjackWingman)
-  * An educational application to teach the necessary skills on how to beat casino game Blackjack
+  * An educational application designed to teach and train users on how to beat Blackjack
 * [NotionBuddy](https://github.com/KazSusilo/NotionBuddy)
   * A microservice that auto-fills details in Notion to create a comprehensive Health & Fitness Tracker
 * Split
