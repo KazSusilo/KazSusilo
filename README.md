@@ -9,7 +9,7 @@
 * Split
   * A financial application to that helps groups track and manage shared expenses, making it easier to split costs and settle balances
 * Trader
-  * A trading microservice that automatically performs trades based on your trading strategy, allowing money to be made while you sleep
+  * A trading microservice that automatically performs trades based on your trading strategy, allowing you to make money while you sleep
 
 🌱 I'm currently learning
 * [AWS Lamda](https://aws.amazon.com/pm/lambda/)
