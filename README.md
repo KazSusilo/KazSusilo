@@ -26,7 +26,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=20232a)
 ![TypeScript Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=3178C6&labelColor=20232a)
 ![HTML Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=20232a)
-![CSS Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=20232a)
+![CSS Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=20232a)
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232a)
 ![Node Badge](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=20232a)
@@ -46,13 +46,13 @@
 ![Jenkins Badge](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=20232a)
 
 ![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=20232a)
-![AWS Badge](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=aws&logoColor=FF9900&labelColor=20232a)
+![AWS Badge](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=twitch&logoColor=FF9900&labelColor=20232a)
 
 ![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=20232a)
 ![Gerrit Badge](https://img.shields.io/badge/gerrit-CCCCCC?style=for-the-badge&logo=GERRIT&logoColor=EEEEEE&labelColor=20232a)
 ![Notion Badge](https://img.shields.io/badge/notion-CCCCCC?style=for-the-badge&logo=notion&logoColor=FFFFFF&labelColor=20232a)
 
-![Windows Badge](https://img.shields.io/badge/windows-0177DB?style=for-the-badge&logo=windows&logoColor=0177DB&labelColor=20232a)
+![Windows Badge](https://img.shields.io/badge/windows-0177DB?style=for-the-badge&logo=gitforwindows&logoColor=0177DB&labelColor=20232a)
 ![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=20232a)
 
 
