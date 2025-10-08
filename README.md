@@ -64,6 +64,6 @@
 </a>
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazSusilo&layout=compact&theme=transparent&border_color=A79CEA&title_color=8058AC&text_color=B3AAEB)
+![Top Langs](https://github-readme-stats-tau-lime-87.vercel.app/api/top-langs/?username=KazSusilo&layout=compact&theme=transparent&border_color=A79CEA&title_color=8058AC&text_color=B3AAEB)
 
 
