@@ -30,8 +30,9 @@
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232a)
 ![Node Badge](https://img.shields.io/badge/node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=20232a)
-![Express Badge](https://img.shields.io/badge/express-CCCCCC?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=20232a)
 ![Spring Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=20232a)
+![Next Badge](https://img.shields.io/badge/next-CCCCCC?style=for-the-badge&logo=next.js&logoColor=FFFFFF&labelColor=20232a)
+![Express Badge](https://img.shields.io/badge/express-CCCCCC?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=20232a)
 ![Flask Badge](https://img.shields.io/badge/flask-CCCCCC?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=20232a)
 ![Unity Badge](https://img.shields.io/badge/Unity-CCCCCC?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=20232a)
 <br>
