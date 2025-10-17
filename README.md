@@ -40,6 +40,7 @@
 ![PyTorch Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=20232a)
 ![Static Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=412991&labelColor=20232a)
 
+![PSQL Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=20232a)
 ![SQLite Badge](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=20232a)
 ![Elasticsearch Badge](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=005571&labelColor=20232a)
 
@@ -48,6 +49,8 @@
 
 ![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=20232a)
 ![AWS Badge](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=twitch&logoColor=FF9900&labelColor=20232a)
+![Vercel Badge](https://img.shields.io/badge/vercel-CCCCCC?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=20232a)
+
 
 ![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=20232a)
 ![Gerrit Badge](https://img.shields.io/badge/gerrit-CCCCCC?style=for-the-badge&logo=GERRIT&logoColor=EEEEEE&labelColor=20232a)
