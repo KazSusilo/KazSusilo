@@ -38,7 +38,10 @@
 <br>
 ![TensorFlow Badge](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=20232a)
 ![PyTorch Badge](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=20232a)
-![Static Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=412991&labelColor=20232a)
+![Scikit-Learn Badge](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=20232a)
+![NumPy Badge](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=013243C&labelColor=20232a)
+![Pandasy Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=20232a)
+![OpenAI Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=412991&labelColor=20232a)
 
 ![PSQL Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=20232a)
 ![SQLite Badge](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=20232a)
