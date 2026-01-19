@@ -26,11 +26,10 @@
 ![Scikit-Learn Badge](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=20232a)
 ![NumPy Badge](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=013243C&labelColor=20232a)
 ![Pandasy Badge](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=20232a)
-<br>
-![OpenAI Badge](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=412991&labelColor=20232a)
-![Ollama Badge](https://img.shields.io/badge/ollama-CCCCCC?style=for-the-badge&logo=ollama&logoColor=CCCCCC&labelColor=20232a)
 
 ![AWS Badge](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=twitch&logoColor=FF9900&labelColor=20232a)
+![Azure Badge](https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=gitforwindows&logoColor=0089D6&labelColor=20232a)
+![Kubernetes Badge](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=20232a)
 ![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=20232a)
 ![Jenkins Badge](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=20232a)
 ![Vercel Badge](https://img.shields.io/badge/vercel-CCCCCC?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=20232a)
@@ -39,17 +38,19 @@
 ![SQLite Badge](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=20232a)
 ![Elasticsearch Badge](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=005571&labelColor=20232a)
 
-![Selenium Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=20232a)
-![JUnit Badge](https://img.shields.io/badge/junit-25A162?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=20232a)
-![Jest Badge](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=20232a)
-
 ![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=20232a)
 ![GitHub Actions Badge](https://img.shields.io/badge/github\%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=20232a)
+![Selenium Badge](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=43B02A&labelColor=20232a)
 ![Gerrit Badge](https://img.shields.io/badge/gerrit-CCCCCC?style=for-the-badge&logo=GERRIT&logoColor=EEEEEE&labelColor=20232a)
 ![Notion Badge](https://img.shields.io/badge/notion-CCCCCC?style=for-the-badge&logo=notion&logoColor=FFFFFF&labelColor=20232a)
 
 ![Windows Badge](https://img.shields.io/badge/windows-0177DB?style=for-the-badge&logo=gitforwindows&logoColor=0177DB&labelColor=20232a)
 ![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=20232a)
+![macOS Badge](https://img.shields.io/badge/macOS-CCCCCC?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=20232a)
+
+![ChatGPT Badge](https://img.shields.io/badge/chatGPT-412991?style=for-the-badge&logo=livechat&logoColor=412991&labelColor=20232a)
+![Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=20232a)
+![Ollama Badge](https://img.shields.io/badge/ollama-CCCCCC?style=for-the-badge&logo=ollama&logoColor=CCCCCC&labelColor=20232a)
 
 
 ## GitHub Stats
